@@ -1,6 +1,3 @@
-font-family: 'Roboto',
-sans-serif;
-
 body {
     background: #000;
     height: 100vh;
@@ -12,7 +9,7 @@ body {
 .card {
     background: white;
     width: 25rem;
-    height: 40rem;
+    height: 600px;
 }
 
 header {
@@ -26,6 +23,7 @@ header {
     display: flex;
     align-items: center;
     padding-left: 10px;
+    width: 100%
 }
 
 .img {
@@ -50,7 +48,7 @@ img {
 
 .texto {
     padding-left: 25px;
-    padding-top: 35px;
+    padding-top: 15px;
 }
 
 .texto p {
